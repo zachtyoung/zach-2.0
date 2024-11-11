@@ -15,6 +15,7 @@ jobs:
 
       - name: Install dependencies
         run: |
+          unset CI
           npm install --legacy-peer-deps
           npm run build
 
