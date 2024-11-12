@@ -1,8 +1,7 @@
 .launcher{
-    background-color: #f7cf74;
-    height: 200px;
-    width: 150px;
     position: absolute;
     right: 10px;
     top: 10;
+    height: 400px;
+    
 }
