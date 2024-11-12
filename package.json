@@ -16,8 +16,7 @@
     "react-rnd": "^10.4.11",
     "react-router-dom": "^6.25.1",
     "react-scripts": "5.0.1",
-    "react-spotify-auth": "^1.4.3",
-    "react-spotify-web-playback": "^0.14.4",
+    "react-use": "^17.5.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
